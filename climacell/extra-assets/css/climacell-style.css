@@ -1,0 +1,47 @@
+
+.climacell h1 {
+  color: #003B71;
+  font-family: "Roboto Bold";
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.climacell h2 {
+  font-family: "Roboto Bold";
+  font-size: 2rem;
+  color: #003B71;
+  margin-bottom: 20px;
+}
+
+.climacell p {
+  font-size: 1.7rem;
+  font-family: "Roboto", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+.navbar.navbar-default {
+  background-color: #3a3a3a;
+  border: None;
+}
+
+.navbar.navbar-default .navbar-nav>li>a, .navbar.navbar-default .navbar-text {
+    color: #fff;
+}
+
+.navbar.navbar-default .navbar-nav>li>a:hover, .navbar.navbar-default .navbar-nav>li>a:focus {
+    color: #1a57ba;
+}
+
+#login-main .auth-form-header {
+    background: rgb(61, 61, 61) !important;
+}
+
+.btn-jupyter {
+    color: #fff;
+    background-color: #E50051 !important;
+    border-color: #E50051 !important;
+}
+
+#login-main .service-login {
+    vertical-align: top !important;
+    padding-top: 60px;
+}
